@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HoldingsApp"
+rootProject.name = "AdhilTask"
 include(":app")
  
